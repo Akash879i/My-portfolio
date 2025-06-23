@@ -1,5 +1,5 @@
 import React from 'react'
-import Sanjana from './image/Sanjana.png';
+import Clint1 from './image/Akash.png';
 import Akash from './image/Akash.png';
 
 // Import Swiper React components
@@ -72,7 +72,7 @@ function Slider() {
               <div>
               <img
                 className="shrink-0 w-[120px] h-[120px] md:w-[180px] md:h-[180px] rounded-full drop-shadow-[0_0px_80px_rgba(59,130,246,1)]"
-                src={Sanjana}
+                src={Clint1}
                 alt="testimonial 3"
               />
               </div>
